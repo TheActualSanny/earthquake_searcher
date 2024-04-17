@@ -1,4 +1,4 @@
-COUNTRY/CITY MOST RECENT EARTHQUAKE SEARCHER APPLICATION
+# COUNTRY/CITY MOST RECENT EARTHQUAKE SEARCHER APPLICATION
 
 
 To use the program, launch the main.py file. For now, the whole thing will run in an infinite while loop (In the future I will add a flask application).
@@ -7,7 +7,7 @@ database.
 
 
 
-DATABASE:
+## DATABASE:
 
 the database is called: earthquake_data
 
@@ -34,7 +34,7 @@ date: Date when the earthquake was recorded
 
 info_link: The earthquake API returns a link to see the location on the map. The table also contains a column for these links.
 
-ERRORS:
+## ERRORS:
 
 For certain inputs The API takes a long time to return the data.
 
